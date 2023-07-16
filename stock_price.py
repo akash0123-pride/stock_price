@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import yfinance as yf
+import matplotlib.pyplot as plt
 
 st.title('stock price 500 App')
 

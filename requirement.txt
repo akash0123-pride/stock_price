@@ -11,3 +11,4 @@ numpy-1.18.1
 yfinance=-0.1.54
 
 Lxml=-4.5.1
+matplotlib=3.5.1
